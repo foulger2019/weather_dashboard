@@ -82,3 +82,4 @@ Framed[
 
 --- /task ---
 
+![Framed](images/Hanoi_Fancy_Framed.png)
