@@ -6,7 +6,7 @@ Wolfram has all kinds current information about the weather. In order to find we
 
 If you are using a desktop application version of Wolfram, then when you start to type the name of a city, a pop up may appear, asking if you want to Convert to Freeform Linguistic Input. You should select this option.
 
-You can also press `[Control] + [=]` to access a Freeform Input box directly within your code. This is the best option if you are using Wolfram in a web browser.
+You can also press `[Control]` `+` `[=]` to access a Freeform Input box directly within your code. This is the best option if you are using Wolfram in a web browser.
 
 A final option is to put the name of the city in quotes `""`, which will work for the majority of cities.
 
