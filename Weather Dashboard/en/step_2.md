@@ -28,7 +28,15 @@ WeatherData["Cape Town", "WindSpeed"]
 Try getting the temperature data and icon for your capital city
 
 ```
-IconData["AirTemperature",
-    WeatherData["London", "Temperature"]]
+IconData["AirTemperature", WeatherData["London", "Temperature"]]
+```
+```
+IconData["WindDirection", WeatherData["London", "WindDirection"]]
+```
+```
+IconData["RelativeHumidity", WeatherData["London", "Humidity"]]
+```
+```
+IconData["WindSpeed", WeatherData["London", "WindSpeed"]]
 ```
 ---/task---
