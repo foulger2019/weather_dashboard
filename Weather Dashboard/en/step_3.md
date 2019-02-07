@@ -80,6 +80,6 @@ Framed[
   RoundingRadius -> 40, FrameMargins -> 20, FrameStyle -> {Thick, Gray}]
  ```
 
---- /task ---
-
 ![Framed](images/Hanoi_Fancy_Frame.png)
+
+--- /task ---
